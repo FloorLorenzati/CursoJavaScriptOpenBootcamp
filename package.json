@@ -1,0 +1,20 @@
+{
+  "name": "cursojavascriptopenbootcamp-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "saludar" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FloorLorenzati/CursoJavaScriptOpenBootcamp.git"
+  },
+  "author": "Floor Lorenzati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FloorLorenzati/CursoJavaScriptOpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/FloorLorenzati/CursoJavaScriptOpenBootcamp#readme"
+}
